@@ -86,9 +86,11 @@ Want to support development directly?
 
 - **ERC20 (Ethereum):**              
 0x5ea26Bb4A174B88584645082C4e2CD76fb3d71f4
+![Support from Ethereum](https://raw.githubusercontent.com/allexstorm/Shadows-of-Forgotten-Gods-Releases/main/QR/Ethereum-ERC20-QRCODE.png)
 
 - **BEP20 (Binance Smart Chain):**   
 0x5ea26Bb4A174B88584645082C4e2CD76fb3d71f4
+![Support from BNB](https://raw.githubusercontent.com/allexstorm/Shadows-of-Forgotten-Gods-Releases/main/QR/BNB-BEP20-QRCODE.png)
 
 Same address works for both networks, just choose the one with lower fees.
 
