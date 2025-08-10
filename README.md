@@ -1,18 +1,15 @@
-# Shadows of Forgotten Gods — Demo
+# Shadows of Forgotten Gods — Pre-Alpha (Demo + Bot Test)
 
-**Shadows of Forgotten Gods** is a 2D side-scrolling RPG in a dark fantasy setting.  
-Battle through cursed woods, haunted ruins, and ancient crypts in this early demo release.
+**Shadows of Forgotten Gods** is a 2D side-scrolling action game set in a dark fantasy world.
+Choose between battling a single AI bot in P2P arena matches up to 10 frags, or playing the classic solo demo mode where you fight monsters across cursed woods, haunted ruins, and ancient crypts.
 
 ---
 
-## 🎮 Demo Features
+## 🎮 Pre-Alpha Features
 
 - Classic 2D side-scrolling combat
-- Animated melee and ranged enemies
-- Health pickups and simple progression system
-- Parallax backgrounds and layered environments
-- Atmospheric soundtrack and sound effects
-- Splash screen and basic menu
+- P2P bot mode — fight a single AI bot in random arenas (match up to 10 frags)
+- Solo demo mode — battle animated melee and ranged enemies in atmospheric levels
 
 ---
 
@@ -26,7 +23,7 @@ Battle through cursed woods, haunted ruins, and ancient crypts in this early dem
 - **GPU:** Intel UHD Graphics (Jasper Lake)  
 - **RAM:** 8 GB  
 - **OS:** Ubuntu 24.04  
-- **FPS:** ~50 stable — no audio issues
+- **FPS:** ~60+ stable in P2P bot mode mode (no drops, no audio issues)
 
 ### 📦 Minimum Suggested:
 
@@ -36,6 +33,10 @@ Battle through cursed woods, haunted ruins, and ancient crypts in this early dem
 - **OS:** Ubuntu 20.04+, Windows 7/10  
 - **Storage:** < 100 MB
 - **Input:** Keyboard + Mouse (no gamepad support in demo)
+
+Note: FPS drops on very old PCs were only observed in the demo level with heavy parallax backgrounds.
+In Bots/Arena mode, static layered backgrounds are used instead of parallax, resulting in smooth performance.
+A toggle to disable parallax will be added in future versions for optimal performance on very old hardware.
 
 ---
 
@@ -58,25 +59,21 @@ Battle through cursed woods, haunted ruins, and ancient crypts in this early dem
 
 ## 🚧 Known Quirks
 
-- Occasionally, the background may appear black on first launch instead of showing the parallax.  
-  *(Let’s just say it's a mysterious cave intro.)*
+- Occasionally, the background may appear black on first launch instead of showing the parallax in demo mode.
 
 ---
 
 ## ❤️ Support Development
 
-This is project by a solo indie developer.  
+This is a project by a solo indie developer.  
 If you enjoyed the demo, consider leaving feedback on [Itch.io](https://allexstorm.itch.io/shadows-of-forgotten-gods).
 
 ---
 
 ## 🧪 Future Plans
 
-- ☑️ Make a working demo  
-- ☑️ Release it publicly  
-- 🔜 Add a **multiplayer mode** with 24/7 server support  
+- 🔜 Add p2p **multiplayer mode** with 24/7 server support  
 - ❓ Add progression, quests, deep RPG mechanics — *if enough motivation*  
-- 🚫 Draw 100+ assets by hand for free — *no, thanks*
 
 ---
 
