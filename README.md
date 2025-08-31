@@ -1,15 +1,16 @@
-# Shadows of Forgotten Gods — Pre-Alpha (Demo + Bot Test)
+# Shadows of Forgotten Gods — Alpha (Demo + Bot Test + Multiplayer)
 
 **Shadows of Forgotten Gods** is a 2D side-scrolling action game set in a dark fantasy world.
-Choose between battling a single AI bot in P2P arena matches up to 10 frags, or playing the classic solo demo mode where you fight monsters across cursed woods, haunted ruins, and ancient crypts.
+Choose between battling a single AI bot in P2P arena matches up to 10 frags, fight other players in real-time P2P matches with monsters or playing the classic solo demo mode where you fight monsters across cursed woods, haunted ruins, and ancient crypts.
 
 ---
 
-## 🎮 Pre-Alpha Features
+## 🎮 Alpha Features
 
 - Classic 2D side-scrolling combat
-- P2P bot mode — fight a single AI bot in random arenas (match up to 10 frags)
-- Solo demo mode — battle animated melee and ranged enemies in atmospheric levels
+- ⚔️ **Multiplayer Arena** — battle other players in real-time P2P matches with monsters
+- 🤖 **Bot Mode** — fight a single AI bot in random arenas (match up to 10 frags)
+- 🧟 **Solo Demo Mode** — battle animated melee and ranged enemies in atmospheric levels
 
 ---
 
@@ -35,7 +36,7 @@ Choose between battling a single AI bot in P2P arena matches up to 10 frags, or 
 - **Input:** Keyboard + Mouse (no gamepad support in demo)
 
 Note: FPS drops on very old PCs were only observed in the demo level with heavy parallax backgrounds.
-In Bots/Arena mode, static layered backgrounds are used instead of parallax, resulting in smooth performance.
+In Bot/Multiplayer mode, static layered backgrounds are used instead of parallax, resulting in smooth performance.
 A toggle to disable parallax will be added in future versions for optimal performance on very old hardware.
 
 ---
@@ -72,8 +73,11 @@ If you enjoyed the demo, consider leaving feedback on [Itch.io](https://allexsto
 
 ## 🧪 Future Plans
 
-- 🔜 Add p2p **multiplayer mode** with 24/7 server support  
-- ❓ Add progression, quests, deep RPG mechanics — *if enough motivation*  
+- 🔧 Fix minor bugs and polish rough edges across all game modes  
+- 🧠 Improve bot AI and allow playing against multiple bots 
+- 🌐 Optimize online multiplayer — improve sync, performance, and stability  
+- 🗡️ Add more weapons and unique abilities for each character class  
+- 📜 Add progression, quests and deep RPG mechanics  
 
 ---
 
